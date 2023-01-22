@@ -10,3 +10,9 @@ export const Card = styled.div`
   flex-direction: column;
   align-items: center;
 `;
+
+export const Form = styled.form`
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+`;
