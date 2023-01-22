@@ -16,3 +16,10 @@ export const Form = styled.form`
   flex-direction: column;
   width: 100%;
 `;
+
+export const Input = styled.input`
+  padding: 1rem;
+  border: 1px solid #999;
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+`;
